@@ -64,7 +64,4 @@ data/	(Optional) Sample dataset or dummy version (if shareable)
 SQL: MySQL Workbench
 Visualization: PowerPoint, Excel (for graphs)
 
-📬 Contact
-If you have any questions or feedback, feel free to reach out:
-📌 Note
-This project is purely educational and not affiliated with Walmart Inc.
+
